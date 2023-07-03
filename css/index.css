@@ -1,0 +1,26 @@
+:root{
+    font-family: 'Poppins', sans-serif;
+}
+div{
+    width: 400px;
+    background-image: url(/assets/fondo.JPG);
+}
+h1{
+    font-weight: 700;
+    font-size: 78.66px;
+    color: #0a2ff1;
+}
+span{
+    background-color: #3ffff3;
+}
+p{
+    font-weight: 500;
+    font-size: 30.66px;
+    color: #0a2ff1;
+}
+#texto{
+    width: 770px;
+}
+img{
+    width: 100%;
+}
